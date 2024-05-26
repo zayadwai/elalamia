@@ -1,0 +1,19 @@
+.vv {
+    color: rgb(165, 42, 42);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+body {
+    text-align: center;
+}    
+
+.cc {
+    width: 600px;
+    height: 550px;
+}
+
+p {
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
